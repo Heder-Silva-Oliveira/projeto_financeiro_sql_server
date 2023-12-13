@@ -1,0 +1,1 @@
+bcp stage.dbo.COMPRAS in C:\Projeto_financeiro\Inputs\Csv\csv_entrada\compras.csv -S localhost -c -T -t "," -C 65001

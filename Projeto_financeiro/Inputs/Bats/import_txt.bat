@@ -1,0 +1,1 @@
+bcp "SELECT * FROM infra_financeiro.dbo.TXT_chaves" queryout C:\Projeto_financeiro\ForeignKeys\txt_chaves.txt -c -T
